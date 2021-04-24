@@ -1,6 +1,6 @@
 # day24-mail-merge
 ## Summary
-- Create a letter using starting_letter.txt for each name in invited_names.txt.
+- Create a letter using `starting_letter.txt` for each name in `invited_names.txt`.
 - Replace the [name] placeholder with the actual name.
 - Save the letters in the folder "ReadyToSend".
 - Create a letter with each name
